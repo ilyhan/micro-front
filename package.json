@@ -1,0 +1,9 @@
+{
+  "name": "micro-front",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "packages/*",
+    "services/*"
+  ]
+}
